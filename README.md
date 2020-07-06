@@ -1,7 +1,6 @@
 # Project Title:
 Simple Linear Regression
 # Tutorial video
-https://www.youtube.com/watch?v=icCKg7LIYF0
 [<img src="https://img.youtube.com/vi/icCKg7LIYF0/maxresdefault.jpg" width="50%">](https://youtu.be/icCKg7LIYF0)
 - https://www.youtube.com/watch?v=icCKg7LIYF0
 #
